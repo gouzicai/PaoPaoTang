@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4154699931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ec6d076ce928f298524c61b35bf428d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 67229b2fb414e225e5bd371e888f877d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ab6a50274f6dcb4eaf11def83070d34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cae31ed2d11c1441b08be3cd4f99b92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb0f93df41a24f9469e6b81cd64d3c94, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Props/sodaCan.prefab
+- Assets/Prefabs/Props/turkey.prefab
+- Assets/Prefabs/Props/watermelon.prefab
+Dependencies: []
